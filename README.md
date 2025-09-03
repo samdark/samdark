@@ -1,5 +1,3 @@
-<img align='right' src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=samdark&show_icons=true">
-
 ### Hi there 👋
 
 I am experienced engineer who loves OpenSource.
